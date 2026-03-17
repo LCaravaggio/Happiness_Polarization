@@ -1,0 +1,1063 @@
+country_name,city_name,news_index_1,news_index_2,news_index_3
+Argentina,Buenos Aires Gran Buenos Aires,24,186,235
+Argentina,Buenos Aires La Matanza,0,30,0
+Argentina,Buenos Aires Lomas de Zamora,0,22,48
+Argentina,Buenos Aires Quilmes,0,6,344
+Argentina,Buenos Aires Lanus,1,6,413
+Argentina,Buenos Aires Almirante Brown,0,4,38
+Argentina,Buenos Aires Merlo,0,5,486
+Argentina,Buenos Aires General San Martin,3,19,233
+Argentina,Buenos Aires Avellaneda,2,14,142
+Argentina,Buenos Aires San Isidro,2,8,112
+Argentina,Buenos Aires Tres de Febrero,0,27,201
+Argentina,Buenos Aires Moron,0,0,424
+Argentina,Buenos Aires Moreno,1,22,105
+Argentina,Buenos Aires Vicente Lopez,0,2,399
+Argentina,Buenos Aires Florencio Varela,1,6,251
+Argentina,Buenos Aires Tigre,1,2,463
+Argentina,Buenos Aires Berazategui,0,1,426
+Argentina,Buenos Aires Malvinas Argentinas,3,15,46
+Argentina,Buenos Aires San Miguel (GBA),0,0,292
+Argentina,Buenos Aires Esteban Echeverria,0,7,313
+Argentina,Buenos Aires Jose C. Paz,2,0,38
+Argentina,Buenos Aires Pilar,0,5,467
+Argentina,Buenos Aires Hurlingham (GBA),0,0,406
+Argentina,Buenos Aires Escobar,6,7,0
+Argentina,Buenos Aires San Fernando,0,13,229
+Argentina,Buenos Aires Ituzaingo,0,0,434
+Argentina,Buenos Aires Ezeiza,13,40,144
+Argentina,Tucuman Gran San Miguel de Tucuman,0,0,358
+Argentina,Salta Salta,1,14,251
+Argentina,Santiago del Estero Santiago del Estero,5,21,332
+Argentina,Santiago del Estero Banda,0,0,114
+Argentina,Jujuy Ledesma Libertador General San Martin,0,0,166
+Argentina,Tucuman Lules,0,0,462
+Argentina,Santiago del Estero Copo Monte Quemado,0,0,402
+Argentina,Chaco Gran Resistencia,0,0,110
+Argentina,Formosa Formosa,0,1,34
+Argentina,Misiones Eldorado,0,0,105
+Argentina,Buenos Aires Mercedes,0,19,339
+Argentina,Chaco Charata,0,0,349
+Argentina,Misiones Candelaria,0,0,18
+Argentina,Neuquen Neuquen,0,4,382
+Argentina,Chubut Comodoro Rivadavia,0,0,442
+Argentina,Chubut Trelew,0,1,227
+Argentina,Neuquen Cutral Co,0,0,197
+Argentina,Chubut Puerto Madryn,0,0,475
+Argentina,Chubut Rawson,0,0,508
+Argentina,Mendoza Las Heras,0,1,406
+Argentina,Buenos Aires Maipu,0,1,494
+Argentina,Mendoza Lujan de Cuyo,0,0,358
+Argentina,San Juan Chimbas,0,0,475
+Argentina,San Luis Juana Koslay,0,0,199
+Argentina,Corrientes Villa Cordoba,0,3,446
+Argentina,Santa Fe Gran Rosario,0,0,243
+Argentina,Santa Fe Santa Fe,42,137,183
+Argentina,Cordoba Gran Rio Cuarto,0,0,388
+Argentina,Santa Fe Villa Gobernador Galvez,0,0,189
+Argentina,La Pampa General Pico,0,0,477
+Argentina,Cordoba Alta Gracia,0,0,167
+Argentina,Santa Fe Canada de Gomez,0,0,426
+Argentina,Cordoba Laboulaye,0,0,217
+Argentina,Cordoba La Falda,0,0,39
+Argentina,Santa Fe Laguna Paiva,0,0,184
+Argentina,Cordoba Santa Maria de Punilla,0,0,502
+Argentina,Buenos Aires La Plata,14,98,386
+Argentina,Buenos Aires Gran La Plata,3,3,233
+Argentina,Buenos Aires Bahia Blanca,1,12,304
+Argentina,Buenos Aires Junin,0,0,392
+Argentina,Buenos Aires Chivilcoy,0,0,44
+Argentina,Buenos Aires Balcarce,0,0,161
+Argentina,Buenos Aires San Carlos de Bolivar,0,0,307
+Argentina,Buenos Aires Coronel Suarez,0,0,324
+Argentina,Buenos Aires Ayacucho,0,0,394
+Argentina,Buenos Aires Carhue,0,0,402
+Bolivia,Beni Trinidad,0,0,39
+Bolivia,Beni Riberalta,0,0,347
+Bolivia,Cochabamba Nueva Galilea,0,0,404
+Bolivia,Chuquisaca Sucre,0,0,301
+Bolivia,Chuquisaca Mosoj Llajta,0,0,188
+Bolivia,Chuquisaca Padcoyo,0,0,266
+Bolivia,Cochabamba Cochabamba,3,16,209
+Bolivia,Cochabamba Sacaba,0,0,32
+Bolivia,Cochabamba Quillacollo,0,0,358
+Bolivia,Cochabamba Ivirgarzama,0,1,253
+Bolivia,Cochabamba Arachaca,0,0,335
+Bolivia,Cochabamba Chinchilla,0,0,208
+Bolivia,Cochabamba Pocona,0,0,218
+Bolivia,Cochabamba Tutimayu,0,0,322
+Bolivia,La Paz La Paz,80,280,348
+Bolivia,La Paz El Alto,31,64,448
+Bolivia,La Paz Patacamaya,0,0,175
+Bolivia,La Paz Cairoma,0,0,508
+Bolivia,La Paz Inquisivi,0,0,219
+Bolivia,La Paz San Antonio,2,0,357
+Bolivia,Santa Cruz San Carlos Santa Fe,0,0,287
+Bolivia,La Paz Taipiplaya,0,0,469
+Bolivia,Oruro Oruro,12,7,466
+Bolivia,La Paz Antequera,0,4,448
+Bolivia,Pando Cobija,0,0,382
+Bolivia,Pando Santa Lucia,0,0,188
+Bolivia,Potosi Potosi,0,10,392
+Bolivia,Potosi Llallagua,0,0,395
+Bolivia,Potosi Tinguipaya,0,0,231
+Bolivia,Potosi Chayanta Colquechaca,0,0,165
+Bolivia,Potosi Quivi Quivi,0,0,368
+Bolivia,Santa Cruz Santa Cruz de la Sierra,14,57,243
+Bolivia,Santa Cruz Montero,5,7,304
+Bolivia,Santa Cruz La Guardia,0,2,305
+Bolivia,Santa Cruz Ascension de Guarayos,0,0,233
+Bolivia,Santa Cruz Las Barreras,0,0,222
+Bolivia,Santa Cruz Don Lorenzo,0,0,134
+Bolivia,Santa Cruz Paurito,0,0,277
+Bolivia,Santa Cruz La Asunta,0,0,225
+Bolivia,Tarija Tarija,0,4,479
+Bolivia,Tarija Yacuiba,0,0,143
+Bolivia,Tarija Villa El Carmen,0,0,233
+Brasil,Norte Manaus,0,3,284
+Brasil,Norte Belem,0,0,133
+Brasil,Norte Ananindeua,0,0,479
+Brasil,Norte Rondon do Para,0,0,422
+Brasil,Norte Para Curralinho,0,0,197
+Brasil,Norte Rondonia Cacoal,0,0,243
+Brasil,Sudeste Sao Joao Da Boa Vista,0,0,438
+Brasil,Norte Tocantins Wanderlandia,0,0,356
+Brasil,Nordeste Alagoas Arapiraca,0,0,351
+Brasil,Nordeste Salvador,0,1,323
+Brasil,Nordeste Ipojuca,0,0,326
+Brasil,Nordeste Bahia Santo Antonio de Jesus,0,0,399
+Brasil,Nordeste Bahia Jaguaquara,0,0,481
+Brasil,Nordeste Bahia Buritirama,0,0,181
+Brasil,Nordeste Bahia Casa Nova,0,0,365
+Brasil,Nordeste Fortaleza,0,0,216
+Brasil,Nordeste Ceara,0,0,311
+Brasil,Nordeste Crateus,0,0,449
+Brasil,Nordeste Juazeiro Do Norte,0,1,383
+Brasil,Nordeste Sao Luis,0,0,388
+Brasil,Nordeste Maranhao Presidente Sarney,0,0,205
+Brasil,Nordeste Maranhao Tuntum,0,0,192
+Brasil,Nordeste Joao Pessoa,0,0,213
+Brasil,Nordeste Campina Grande,0,0,354
+Brasil,Nordeste Pernambuco Recife,0,0,249
+Brasil,Nordeste Jaboatao Dos Guararapes,0,0,217
+Brasil,Nordeste Paulista,0,0,405
+Brasil,Nordeste Pernambuco Aguas Belas,0,0,65
+Brasil,Nordeste Pernambuco Tuparetama,0,0,342
+Brasil,Sudeste Rio De Janeiro Paqueta,0,0,105
+Brasil,Nordeste Rio Grande del Norte Jose da Penha,0,0,402
+Brasil,Nordeste Sergipe Lagarto,0,0,362
+Brasil,Sudeste Vila Velha,0,0,382
+Brasil,Sudeste Anchieta,0,0,439
+Brasil,Sudeste Belo Horizonte,0,0,392
+Brasil,Sudeste Betim,0,0,444
+Brasil,Sudeste Pedro Leopoldo,0,0,459
+Brasil,Sudeste Minas Gerais Governador Valadares,0,0,324
+Brasil,Sudeste Minas Gerais Aguas Formosas,0,0,312
+Brasil,Sudeste Minas Gerais Paineiras,0,0,359
+Brasil,Sudeste Minas Gerais Uberaba,0,0,293
+Brasil,Sudeste Minas Gerais Sao Sebastiao do Paraiso,0,0,466
+Brasil,Sudeste Paraisopolis,0,0,437
+Brasil,Sudeste Juiz De Fora,0,0,445
+Brasil,Sudeste Rio De Janeiro,0,0,116
+Brasil,Sudeste Belford Roxo,0,0,445
+Brasil,Sudeste Nova Iguacu,0,0,413
+Brasil,Sudeste Duque De Caxias,0,0,468
+Brasil,Sudeste Nilopolis,0,0,438
+Brasil,Sudeste Sao Goncalo,0,0,473
+Brasil,Sudeste Rio De Janeiro Petropolis,0,0,461
+Brasil,Sudeste Nova Friburgo,0,0,45
+Brasil,Sudeste Sao Paulo,0,0,366
+Brasil,Sudeste Barueri,0,0,122
+Brasil,Sudeste Osasco,0,0,468
+Brasil,Sudeste Mairipora,0,0,321
+Brasil,Sudeste Taboao da Serra,0,0,406
+Brasil,Sudeste Itaquaquecetuba,0,0,439
+Brasil,Sudeste Guarulhos,0,0,398
+Brasil,Sudeste Ribeirao Pires,0,0,387
+Brasil,Sudeste Sao Bernardo Do Campo,0,0,192
+Brasil,Sudeste Itariri,0,0,415
+Brasil,Norte Rio Branco,0,1,158
+Brasil,Sudeste Sao Paulo Louveira,0,0,497
+Brasil,Sudeste Sao Paulo Cruzeiro,0,0,375
+Brasil,Sudeste Sao Paulo Hortolandia,0,0,417
+Brasil,Sudeste Sao Paulo Mogi Guacu,0,0,30
+Brasil,Sudeste Sao Paulo Orlandia,0,0,334
+Brasil,Sudeste Sao Paulo Lins,0,0,415
+Brasil,Sudeste Sao Carlos,0,0,463
+Brasil,Sudeste Presidente Prudente,0,0,485
+Brasil,Sul Curitiba,0,0,434
+Brasil,Sul Sao Jose Dos Pinhais,0,0,0
+Brasil,Sul Parana Mercedes,0,0,484
+Brasil,Sul Parana Uniao da Vitoria,0,0,88
+Brasil,Sul Porto Alegre,2,17,289
+Brasil,Sul Cachoeirinha,0,0,138
+Brasil,Sul Gravatai,0,0,279
+Brasil,Sul Sapucaia Do Sul,0,0,265
+Brasil,Sul Rio Grande do Sul Alecrim,0,0,279
+Brasil,Sul Rio Grande do Sul Santa Maria,1,3,44
+Brasil,Sul Rio Grande do Sul Osorio,0,0,361
+Brasil,Sul Blumenau,0,0,0
+Brasil,Sul Santa Catarina Icara,0,0,377
+Brasil,Centro Oeste Brasilia,0,0,496
+Brasil,Centro Oeste Goiania,0,0,439
+Brasil,Centro Oeste Goias Catalao,0,0,24
+Brasil,Centro Oeste Goias Alexania,0,0,168
+Brasil,Centro Oeste Mato Grosso do Sur Chapadao do Sul,0,0,107
+Brasil,Centro Oeste Mirassol Doeste,0,0,486
+Brasil,Centro Oeste Mato Grosso Agua Boa,0,0,419
+Colombia,Antioquia Medellin,1,44,113
+Colombia,Antioquia Bello,0,2,276
+Colombia,Caldas,0,0,456
+Colombia,Antioquia Yarumal,1,1,473
+Colombia,Caldas Manizales,0,0,332
+Colombia,Quindio Salento,0,0,414
+Colombia,Risaralda Pereira,5,0,390
+Colombia,Risaralda Dosquebradas,0,0,495
+Colombia,Risaralda Mistrato,0,0,443
+Colombia,Atlantico Barranquilla,0,1,289
+Colombia,Atlantico Soledad,0,0,101
+Colombia,Atlantico Tubara,0,0,511
+Colombia,Bolivar Cartagena de Indias,0,0,472
+Colombia,Cesar Valledupar,2,2,196
+Colombia,Cordoba Monteria,0,0,382
+Colombia,La Guajira Riohacha,0,8,309
+Colombia,Magdalena Santa Marta,5,2,237
+Colombia,Sucre La Sabana San Luis de Since,0,0,514
+Colombia,Bogota D.C.,3,5,209
+Colombia,Boyaca Tunja,0,1,419
+Colombia,Boyaca Duitama,0,0,234
+Colombia,Boyaca Sotaquira,0,0,492
+Colombia,Cundinamarca Soacha,0,0,280
+Colombia,Casanare Yopal,0,1,358
+Colombia,Norte de Santander Cucuta,0,12,455
+Colombia,Norte de Santander Tibu,0,6,469
+Colombia,Santander Bucaramanga,0,3,481
+Colombia,Santander Floridablanca,0,1,379
+Colombia,Casanare Paz de Ariporo,0,0,435
+Colombia,Huila Neiva,3,0,395
+Colombia,Tolima Ibague,0,0,48
+Colombia,Caqueta Florencia,0,2,437
+Colombia,Caqueta Cartagena del Chaira,0,0,392
+Colombia,Caqueta Puerto Rico,8,1,458
+Colombia,Meta Villavicencio,0,0,270
+Colombia,Putumayo San Miguel,5,2,195
+Colombia,Cauca Popayan,9,16,434
+Colombia,Cauca Caldon,0,0,122
+Colombia,Cauca Miranda,0,4,104
+Colombia,Choco Bojaya,0,0,218
+Colombia,Choco El Carmen de Atrato,0,5,145
+Colombia,Narino Pasto,0,1,317
+Colombia,Valle del Cauca Cali,15,55,87
+Colombia,Valle del Cauca Buenaventura,0,25,168
+Colombia,Valle del Cauca Palmira,0,3,324
+Costa Rica,San Jose Alajuelita,0,2,138
+Costa Rica,San Jose Aserri,0,0,491
+Costa Rica,San Jose Curridabat,0,0,305
+Costa Rica,San Jose Desamparados,0,1,463
+Costa Rica,San Jose Escazu,0,7,494
+Costa Rica,San Jose Goicoechea,0,0,375
+Costa Rica,San Jose Montes de Oca,0,0,319
+Costa Rica,San Jose Moravia,0,0,378
+Costa Rica,San Jose San Jose,24,0,248
+Costa Rica,San Jose Tibas,0,0,367
+Costa Rica,San Jose Vasquez de Coronado,0,0,322
+Costa Rica,San Jose Mora,0,0,405
+Costa Rica,San Jose Santa Ana,0,0,327
+Costa Rica,Alajuela Alajuela,0,0,282
+Costa Rica,Alajuela Atenas,1,0,499
+Costa Rica,Alajuela Grecia,0,0,189
+Costa Rica,Alajuela Poas,0,0,46
+Costa Rica,Cartago Cartago,1,0,448
+Costa Rica,Cartago El Guarco,0,0,401
+Costa Rica,Cartago La Union,0,0,313
+Costa Rica,Cartago Oreamuno,0,0,357
+Costa Rica,Cartago Paraiso,0,0,78
+Costa Rica,Heredia Barva,0,0,128
+Costa Rica,Heredia Belen,0,0,78
+Costa Rica,Heredia Heredia,0,0,226
+Costa Rica,Heredia San Pablo,0,0,294
+Costa Rica,Heredia San Rafael,0,0,383
+Costa Rica,Heredia Santa Barbara,0,0,359
+Costa Rica,Heredia Santo Domingo,0,0,373
+Costa Rica,San Jose Perez Zeledon,0,0,379
+Costa Rica,San Jose Puriscal,0,0,306
+Costa Rica,Alajuela Guatuso,0,0,99
+Costa Rica,Alajuela Naranjo,0,0,332
+Costa Rica,Alajuela Orotina,0,0,367
+Costa Rica,Alajuela Palmares,0,0,225
+Costa Rica,Alajuela San Carlos,0,0,105
+Costa Rica,Alajuela San Ramon,0,0,444
+Costa Rica,Alajuela Upala,0,0,251
+Costa Rica,Cartago Alvarado,0,0,0
+Costa Rica,Cartago Turrialba,0,0,384
+Costa Rica,Heredia Sarapiqui,0,0,28
+Costa Rica,Guanacaste Bagaces,0,0,302
+Costa Rica,Guanacaste Canas,0,0,205
+Costa Rica,Guanacaste Hojancha,0,0,407
+Costa Rica,Guanacaste Liberia,0,0,159
+Costa Rica,Guanacaste Nicoya,0,0,421
+Costa Rica,Guanacaste Santa Cruz,0,0,158
+Costa Rica,Guanacaste Tilaran,0,0,77
+Costa Rica,Puntarenas Buenos Aires,0,0,376
+Costa Rica,Puntarenas Corredores,0,0,101
+Costa Rica,Puntarenas Esparza,0,0,372
+Costa Rica,Puntarenas Garabito,0,0,86
+Costa Rica,Puntarenas Golfito,0,0,274
+Costa Rica,Puntarenas Parrita,0,0,513
+Costa Rica,Puntarenas Puntarenas,6,0,222
+Costa Rica,Limon Guacimo,0,0,193
+Costa Rica,Limon Limon,1,0,118
+Costa Rica,Limon Matina,0,0,159
+Costa Rica,Limon Pococi,0,0,305
+Costa Rica,Limon Siquirres,0,0,205
+Costa Rica,Limon Talamanca,0,0,133
+Chile,Arica y Parinacota Arica,0,0,68
+Chile,Tarapaca Iquique,0,0,26
+Chile,Tarapaca Alto Hospicio,0,0,127
+Chile,Antofagasta Calama,0,0,148
+Chile,Antofagasta Antofagasta,2,0,46
+Chile,Atacama Copiapo,0,0,221
+Chile,Atacama Vallenar,0,0,16
+Chile,Coquimbo La Serena,0,0,303
+Chile,Coquimbo Ovalle Limari,0,0,144
+Chile,Coquimbo Coquimbo,5,0,463
+Chile,Coquimbo Ovalle,0,0,362
+Chile,Valparaiso Marga Marga Quilpue,0,0,342
+Chile,Valparaiso Valparaiso Puchuncavi,0,0,334
+Chile,Valparaiso Villa Alemana,0,0,196
+Chile,Valparaiso La Calera,0,0,285
+Chile,Valparaiso Concon,0,0,406
+Chile,Valparaiso Vina Del Mar,3,0,126
+Chile,Valparaiso Valparaiso,2,0,169
+Chile,Valparaiso Quillota Las Cruzadas,0,0,283
+Chile,Valparaiso Quillota,0,0,98
+Chile,Valparaiso San Felipe,0,0,46
+Chile,Valparaiso Calle Larga,0,0,105
+Chile,Valparaiso Limache Lliu Lliu,0,0,369
+Chile,Valparaiso Los Andes,0,0,314
+Chile,Valparaiso San Antonio,0,0,124
+Chile,Metropolitana Barnechea,0,0,292
+Chile,Metropolitana Vitacura,0,0,45
+Chile,Metropolitana Las Condes,0,0,507
+Chile,Metropolitana La Reina,0,0,429
+Chile,Metropolitana Providencia,0,0,61
+Chile,Metropolitana Nunoa,0,0,365
+Chile,Metropolitana Penalolen,0,0,205
+Chile,Metropolitana Macul,0,0,228
+Chile,Metropolitana Santiago de Chile,12,0,331
+Chile,Metropolitana Quilicura,0,0,457
+Chile,Metropolitana Huechuraba,0,0,308
+Chile,Metropolitana Conchali,0,0,445
+Chile,Metropolitana Recoleta,0,0,375
+Chile,Metropolitana Independencia,0,0,197
+Chile,Metropolitana Renca,0,0,254
+Chile,Metropolitana Quinta Normal,0,0,168
+Chile,Metropolitana Pudahuel,0,0,189
+Chile,Metropolitana Cerro Navia,0,0,443
+Chile,Metropolitana Lo Prado,0,0,444
+Chile,Metropolitana Estacion Central,0,0,106
+Chile,Metropolitana Maipu,0,0,305
+Chile,Metropolitana San Miguel,0,1,487
+Chile,Metropolitana Pedro Aguirre Cerda,0,0,465
+Chile,Metropolitana Cerrillos,0,0,141
+Chile,Metropolitana Lo Espejo,0,0,412
+Chile,Metropolitana San Joaquin,0,0,48
+Chile,Metropolitana La Cisterna,0,0,304
+Chile,Metropolitana El Bosque,0,0,379
+Chile,La Araucania San Ramon,0,0,27
+Chile,Metropolitana La Granja,0,0,378
+Chile,Metropolitana La Pintana,0,0,226
+Chile,Metropolitana La Florida,0,1,138
+Chile,Metropolitana San Bernardo,0,0,472
+Chile,Metropolitana Puente Alto,0,0,469
+Chile,Metropolitana Talagante Padre Hurtado,0,0,308
+Chile,Metropolitana Chacabuco Til Til,0,0,31
+Chile,Metropolitana Paine,0,0,205
+Chile,Metropolitana Santiago de Chile Buin,0,0,0
+Chile,Metropolitana Santiago de Chile Lampa,0,0,308
+Chile,Metropolitana Penaflor,0,0,35
+Chile,Libertador Bernardo O'Higgins San Vicente de Tagua,0,0,229
+Chile,Metropolitana Santiago de Chile Santa Rosa,0,0,158
+Chile,Metropolitana Santiago de Chile Talagante Isla de Maipo,0,0,224
+Chile,Atacama El Escorial,0,0,265
+Chile,Metropolitana Talagante,0,0,157
+Chile,Metropolitana Melipilla,0,0,389
+Chile,Libertador Bernardo O'Higgins Rancagua,0,0,115
+Chile,Libertador Bernardo O'Higgins Codegua,0,0,369
+Chile,Atacama Huasco El Maiten,0,0,405
+Chile,Libertador Bernardo O'Higgins San Fernando,0,0,423
+Chile,Libertador Bernardo O'Higgins Rengo Popeta,0,0,350
+Chile,Libertador Bernardo O'Higgins Colchagua Chepica,0,0,272
+Chile,Maule Curico,0,0,415
+Chile,Maule Curepto,0,0,107
+Chile,Nuble Chillan Viejo Las Mariposas,0,0,108
+Chile,Maule Linares,0,0,173
+Chile,Metropolitana Santiago de Chile Independencia Los Castanos,0,0,186
+Chile,Maule Talca,0,0,12
+Chile,Maule Romeral,0,0,476
+Chile,Nuble Chillan Viejo,0,0,178
+Chile,Bio Bio Punta de Parra,0,0,201
+Chile,Bio Bio Talcahuano,0,0,51
+Chile,Bio Bio Chiguayante,0,0,128
+Chile,Bio Bio Concepcion Hualpen,0,0,271
+Chile,Bio Bio Concepcion,0,4,411
+Chile,Bio Bio Lebu,0,0,466
+Chile,Bio Bio Coronel,0,0,156
+Chile,Bio Bio Lota,0,0,471
+Chile,Bio Bio San Pedro De La Paz,0,0,58
+Chile,Bio Bio Arauco Tirua,0,0,8
+Chile,Bio Bio Santa Barbara,0,0,416
+Chile,Bio Bio Pichiarauco,0,0,35
+Chile,Bio Bio Penco,0,0,0
+Chile,Bio Bio Llano Blanco,0,0,383
+Chile,Bio Bio Tome,5,0,150
+Chile,Bio Bio Bio Bio Negrete,0,0,88
+Chile,Bio Bio Los Angeles,0,5,77
+Chile,La Araucania Galvarino,0,0,404
+Chile,La Araucania Esperanza,0,0,206
+Chile,La Araucania Temuco,0,0,112
+Chile,La Araucania Padre de las Casas,0,0,79
+Chile,La Araucania Ercilla Pidima,0,0,188
+Chile,La Araucania Perquenco,0,0,461
+Chile,La Araucania Malleco Selva Oscura,0,0,416
+Chile,La Araucania Angol,0,0,188
+Chile,La Araucania Renaico,0,0,433
+Chile,Los Rios Valdivia Panguipulli Huellahue,0,0,109
+Chile,Los Rios Valdivia Paillaco,0,0,267
+Chile,Los Rios Valdivia,0,1,198
+Chile,Los Lagos San Pablo,0,0,452
+Chile,Los Lagos Llanquihue,0,0,413
+Chile,Los Lagos Osorno,0,0,28
+Chile,Los Lagos Tegualda,0,0,391
+Chile,Los Lagos Ilque,0,0,277
+Chile,Los Lagos Frutillar,0,0,105
+Chile,Los Lagos Alerce,0,0,76
+Chile,Los Lagos Puerto Montt,0,0,302
+Chile,Aysen del General Carlos Ibanez del Campo Coihaique,0,0,93
+Chile,Magallanes y la Antartida Chilena Punta Arenas,0,0,399
+Rep. Dominicana,Distrito Nacional Santo Domingo De Guzman,0,0,304
+Rep. Dominicana,Santo Domingo Santo Domingo Este,1,10,355
+Rep. Dominicana,Santo Domingo Santo Domingo Oeste,0,0,2
+Rep. Dominicana,Santo Domingo Santo Domingo Norte,0,0,168
+Rep. Dominicana,Santo Domingo Boca Chica (Mun.),0,0,5
+Rep. Dominicana,Santo Domingo Los Alcarrizos (DM),0,0,208
+Rep. Dominicana,Santo Domingo Pedro Brand,0,0,25
+Rep. Dominicana,Espaillat Moca,0,0,102
+Rep. Dominicana,Puerto Plata Puerto Plata,2,17,299
+Rep. Dominicana,Santiago Santiago (Mun.),0,0,353
+Rep. Dominicana,La Vega La Vega,10,9,512
+Rep. Dominicana,Monsenor Nouel Bonao,0,0,321
+Rep. Dominicana,Duarte San Francisco de Macoris,0,0,292
+Rep. Dominicana,Peravia Bani,0,0,286
+Rep. Dominicana,San Cristobal San Cristobal (Mun.),0,0,305
+Rep. Dominicana,San Cristobal Bajos de Haina,0,0,388
+Rep. Dominicana,San Juan San Juan (Mun.),0,0,252
+Rep. Dominicana,La Altagracia Higuey,0,0,449
+Rep. Dominicana,La Romana La Romana (Mun.),0,0,446
+Rep. Dominicana,San Pedro de Macoris San Pedro de Macoris (Munic.),0,1,244
+Rep. Dominicana,Puerto Plata Luperon,0,0,507
+Rep. Dominicana,Santiago Licey Al Medio,0,0,47
+Rep. Dominicana,Santiago Tamboril,0,0,89
+Rep. Dominicana,Santiago Punal,0,0,392
+Rep. Dominicana,La Vega Constanza,0,0,354
+Rep. Dominicana,Sanchez Ramirez Cotui,0,0,344
+Rep. Dominicana,Sanchez Ramirez La Mata (DM),0,0,386
+Rep. Dominicana,Duarte Arenoso,0,0,281
+Rep. Dominicana,Maria Trinidad Sanchez Nagua,0,0,55
+Rep. Dominicana,Maria Trinidad Sanchez El Factor,0,0,56
+Rep. Dominicana,Hermanas Mirabal Villa Tapia,0,0,345
+Rep. Dominicana,Dajabon Dajabon,9,54,44
+Rep. Dominicana,Montecristi Guayubin,0,0,473
+Rep. Dominicana,Santiago Rodriguez Villa los Almacigos (DM),0,0,403
+Rep. Dominicana,Valverde Esperanza,0,0,0
+Rep. Dominicana,Azua Azua,1,1,15
+Rep. Dominicana,Azua Municipio Las Charcas,0,0,106
+Rep. Dominicana,Azua Tabara Arriba,0,0,105
+Rep. Dominicana,Peravia Nizao,0,0,4
+Rep. Dominicana,San Cristobal Villa Altagracia,0,0,494
+Rep. Dominicana,San Cristobal Yaguate,0,0,453
+Rep. Dominicana,San Jose de Ocoa Sabana Larga,0,0,481
+Rep. Dominicana,Bahoruco Villa Jaragua,0,0,205
+Rep. Dominicana,Barahona Barahona,0,0,180
+Rep. Dominicana,Barahona Fundacion,0,0,125
+Rep. Dominicana,Pedernales Pedernales,0,0,78
+Rep. Dominicana,San Juan Bohechio,0,0,102
+Rep. Dominicana,El Seibo El Seibo (Mun.),0,0,102
+Rep. Dominicana,La Romana Villa Hermosa,0,0,406
+Rep. Dominicana,San Pedro De Macoris Los Llanos,0,0,235
+Rep. Dominicana,Monte Plata Monte Plata (Mun.),0,0,125
+Rep. Dominicana,Monte Plata Yamasa,0,0,305
+Rep. Dominicana,Hato Mayor Hato Mayor (Mun.),0,0,308
+Ecuador,El Oro Huaquillas,0,2,139
+Ecuador,El Oro Machala,0,9,349
+Ecuador,Esmeraldas Atacames,0,3,434
+Ecuador,Esmeraldas Quininde,0,0,424
+Ecuador,Guayas Alfredo Baquerizo Moreno,0,0,42
+Ecuador,Guayas Balzar,0,1,393
+Ecuador,Guayas Colimes,0,0,179
+Ecuador,Guayas Daule,0,0,22
+Ecuador,Guayas Eloy Alfaro,0,0,346
+Ecuador,Guayas Guayaquil,0,49,431
+Ecuador,Guayas Milagro,0,0,195
+Ecuador,Guayas Naranjito,0,0,278
+Ecuador,Guayas Naranjal,2,1,346
+Ecuador,Guayas Samborondon,0,0,103
+Ecuador,Los Rios Baba,0,0,444
+Ecuador,Los Rios Quevedo,0,2,23
+Ecuador,Los Rios Babahoyo,0,0,382
+Ecuador,Los Rios CATARAMA,0,0,208
+Ecuador,Los Rios Puebloviejo,0,3,368
+Ecuador,Manabi Calceta,0,0,142
+Ecuador,Manabi El Carmen,0,0,206
+Ecuador,Manabi Jipijapa,0,0,484
+Ecuador,Manabi Manta,0,11,236
+Ecuador,Manabi Montecristi,0,0,45
+Ecuador,Manabi Portoviejo,0,1,512
+Ecuador,Manabi Puerto Lopez,0,5,195
+Ecuador,Manabi Sucre Bahia de Caraquez,0,0,192
+Ecuador,Manabi Pajan,0,0,342
+Ecuador,Manabi Pedernales,0,0,163
+Ecuador,Manabi Chone,0,7,133
+Ecuador,Manabi Flavio Alfaro,0,0,263
+Ecuador,Santa Elena Santa Elena,5,42,128
+Ecuador,Santa Elena La Libertad,0,0,137
+Ecuador,Santo Domingo Santo Domingo de los Tsachilas Santo Domingo de los Colorados,0,0,108
+Ecuador,Santo Domingo Santo Domingo de los Tsachilas La Concordia,0,0,42
+Ecuador,Azuay Cuenca,0,4,288
+Ecuador,Bolivar Guaranda,0,0,188
+Ecuador,Canar La Troncal,0,0,89
+Ecuador,Carchi Tulcan,0,1,447
+Ecuador,Chimborazo Riobamba,0,0,84
+Ecuador,Chimborazo Alausi,0,0,106
+Ecuador,Chimborazo Guamote,0,0,415
+Ecuador,Cotopaxi Latacunga,0,10,99
+Ecuador,Cotopaxi Pujili,0,0,183
+Ecuador,Imbabura Ibarra,1,0,221
+Ecuador,Imbabura Otavalo,0,0,228
+Ecuador,Loja Loja,0,3,425
+Ecuador,Loja Saraguro,0,0,376
+Ecuador,Loja Catamayo,0,0,309
+Ecuador,Pichincha Quito,0,4,258
+Ecuador,Pichincha Sangolqui,0,0,361
+Ecuador,Pichincha Cayambe,0,0,0
+Ecuador,Tungurahua Ambato,0,0,241
+Ecuador,Tungurahua Santiago de Pillaro,0,0,123
+Ecuador,Sucumbios Nueva Loja,0,0,108
+Ecuador,Sucumbios Shushufindi,0,0,345
+Ecuador,Sucumbios LUMBAQUI,0,0,92
+Ecuador,Morona Santiago Morona,0,3,382
+Ecuador,Orellana Orellana,0,10,466
+El Salvador,La Libertad La Libertad,7,61,117
+El Salvador,San Salvador San Salvador,177,371,205
+El Salvador,Ahuachapan Ahuachapan,0,9,192
+El Salvador,Santa Ana Santa Ana,5,46,432
+El Salvador,Sonsonate Sonsonate,0,8,394
+El Salvador,Cuscatlan Cuscatlan,6,8,364
+El Salvador,La Paz La Paz,13,74,404
+El Salvador,Cabanas Cabanas,3,14,394
+El Salvador,San Vicente San Vicente,0,23,422
+El Salvador,Usulutan Usulutan,0,3,516
+El Salvador,San Miguel San Miguel,8,67,373
+El Salvador,Morazan Morazan,3,3,409
+El Salvador,La Union La Union,3,38,422
+El Salvador,Chalatenango Chalatenango,1,4,53
+Guatemala,Guatemala Amatitlan,0,0,128
+Guatemala,Guatemala Chinautla,0,0,108
+Guatemala,Guatemala Guatemala,324,528,248
+Guatemala,Guatemala Mixco,0,6,129
+Guatemala,Guatemala Palencia,1,0,511
+Guatemala,Guatemala Petapa,0,1,148
+Guatemala,Guatemala San Juan Sacatepequez,0,0,82
+Guatemala,Guatemala Villa Canales,0,0,484
+Guatemala,Guatemala Villa Nueva,0,2,491
+Guatemala,Alta Verapaz Coban,0,0,268
+Guatemala,Alta Verapaz San Pedro Carcha,0,0,291
+Guatemala,Chimaltenango Chimaltenango,0,0,49
+Guatemala,Chimaltenango Tecpan Guatemala,0,0,445
+Guatemala,Escuintla Escuintla,0,5,44
+Guatemala,Huehuetenango Chiantla,1,0,105
+Guatemala,Huehuetenango Huehuetenango,2,14,383
+Guatemala,Huehuetenango Santa Cruz Barillas,0,1,259
+Guatemala,Izabal Puerto Barrios,1,0,68
+Guatemala,Jalapa Jalapa,0,0,42
+Guatemala,Jutiapa Jutiapa,0,2,179
+Guatemala,Peten Sayaxche,0,1,67
+Guatemala,Quetzaltenango Coatepeque,0,0,89
+Guatemala,Quetzaltenango Quetzaltenango,3,7,123
+Guatemala,Quiche Chichicastenango,0,0,216
+Guatemala,Quiche Ixcan,0,0,446
+Guatemala,Quiche Nebaj,0,0,309
+Guatemala,San Marcos Malacatan,0,4,128
+Guatemala,Solola Solola,0,9,272
+Guatemala,Totonicapan Momostenango,0,0,105
+Guatemala,Totonicapan Totonicapan,6,22,347
+Guatemala,Alta Verapaz Cahabon,0,0,159
+Guatemala,Alta Verapaz Chisec,1,0,157
+Guatemala,Alta Verapaz Panzos,0,0,81
+Guatemala,Alta Verapaz San Juan Chamelco,0,0,244
+Guatemala,Alta Verapaz Senahu,0,0,362
+Guatemala,Baja Verapaz Cubulco,0,0,137
+Guatemala,Baja Verapaz Rabinal,0,7,364
+Guatemala,Chimaltenango Acatenango,0,0,273
+Guatemala,Chimaltenango Patzun,0,0,350
+Guatemala,Chimaltenango San Martin Jilotepeque,0,0,346
+Guatemala,Chiquimula Concepcion Las Minas,0,0,147
+Guatemala,Chiquimula Olopa,0,0,389
+Guatemala,El Progreso San Agustin Acasagustlan,0,0,465
+Guatemala,Escuintla La Democracia,0,0,154
+Guatemala,Escuintla Nueva Concepcion,0,0,0
+Guatemala,Escuintla San Vicente Pacaya,0,0,232
+Guatemala,Huehuetenango Colotenango,0,0,350
+Guatemala,Huehuetenango San Idelfonso Ixtahuacan,0,0,189
+Guatemala,Huehuetenango Nenton,0,0,161
+Guatemala,Huehuetenango San Miguel Acatan,0,0,185
+Guatemala,Huehuetenango Santa Barbara,0,0,314
+Guatemala,Huehuetenango Todos Santos Cuchumatan,0,0,334
+Guatemala,Izabal Livingston,0,0,144
+Guatemala,Jalapa Monjas,0,0,57
+Guatemala,Jutiapa Asuncion Mita,0,0,108
+Guatemala,Jutiapa Jalpatagua,0,0,94
+Guatemala,Peten Dolores,0,0,25
+Guatemala,Peten San Andres,0,0,84
+Guatemala,Peten Santa Ana,0,0,53
+Guatemala,Quetzaltenango Colomba,0,0,303
+Guatemala,Quetzaltenango Olintepeque,0,0,454
+Guatemala,Quetzaltenango San Juan Ostuncalco,0,0,39
+Guatemala,Quiche Chicaman,0,0,49
+Guatemala,Quiche Joyabaj,0,2,426
+Guatemala,Quiche San Juan Cotzal,0,0,44
+Guatemala,Quiche Zacualpa,0,0,435
+Guatemala,Retalhuleu Retalhuleu,0,8,102
+Guatemala,Retalhuleu San Sebastian,0,0,362
+Guatemala,Sacatepequez Magdalena Milpas Altas,0,0,291
+Guatemala,Sacatepequez Santo Domingo Xenacoj,0,0,388
+Guatemala,San Marcos Comitancillo,0,0,39
+Guatemala,San Marcos El Tumbador,0,0,109
+Guatemala,San Marcos San Cristobal Cucho,0,0,133
+Guatemala,San Marcos San Pablo,0,2,405
+Guatemala,San Marcos Sipacapa,0,0,368
+Guatemala,San Marcos Tejutla,0,1,414
+Guatemala,Santa Rosa Chiquimulilla,0,0,65
+Guatemala,Santa Rosa Oratorio,0,0,81
+Guatemala,Solola Nahuala,0,0,131
+Guatemala,Solola San Pablo La Laguna,0,0,496
+Guatemala,Suchitepequez Chicacao,0,0,33
+Guatemala,Suchitepequez Rio Bravo,0,0,91
+Guatemala,Suchitepequez San Juan Bautista,0,0,295
+Guatemala,Suchitepequez San Jose el Idolo,0,0,316
+Guatemala,Totonicapan Santa Lucia la Reforma,0,0,48
+Guatemala,Zacapa La Union,0,0,134
+Honduras,Cortes San Pedro Sula,2,6,356
+Honduras,Francisco Morazan Distrito Central Amarateca,0,0,401
+Honduras,Atlantida La Ceiba,2,4,37
+Honduras,Atlantida Tela,0,3,413
+Honduras,Choluteca Choluteca,2,11,295
+Honduras,Choluteca Concepcion de Maria,0,0,44
+Honduras,Choluteca Pespire,0,0,392
+Honduras,Colon Saba,0,0,385
+Honduras,Colon Tocoa,6,10,0
+Honduras,Comayagua Comayagua,0,0,91
+Honduras,Comayagua Siguatepeque,0,0,364
+Honduras,Comayagua Taulabe,0,0,476
+Honduras,Copan La Union,0,0,317
+Honduras,Copan Santa Rosa de Copan,0,3,485
+Honduras,Cortes Choloma,0,2,243
+Honduras,Cortes La Lima,0,0,393
+Honduras,Cortes Pimienta,0,2,57
+Honduras,Cortes Puerto Cortes,0,11,68
+Honduras,Cortes San Manuel,0,0,73
+Honduras,Cortes Santa Cruz de Yojoa,0,0,444
+Honduras,Cortes Villanueva,0,1,396
+Honduras,El Paraiso Danli,0,4,284
+Honduras,Francisco Morazan Curaren,0,0,186
+Honduras,Francisco Morazan Talanga,0,0,161
+Honduras,Gracias a Dios Puerto Lempira,0,8,38
+Honduras,Islas De La Bahia Roatan,0,13,355
+Honduras,La Paz Santa Maria,0,0,299
+Honduras,Ocotopeque Belen Gualcho,0,0,0
+Honduras,Olancho Catacamas,0,1,0
+Honduras,Olancho Juticalpa,0,0,34
+Honduras,Olancho San Esteban,0,2,495
+Honduras,Santa Barbara Macuelizo,0,0,105
+Honduras,Santa Barbara Santa Barbara,1,0,371
+Honduras,Valle San Lorenzo,0,0,266
+Honduras,Yoro El Progreso,0,0,318
+Honduras,Yoro Morazan,0,0,314
+Honduras,Yoro Olanchito,0,0,28
+Honduras,Yoro Yoro,0,0,35
+Honduras,Atlantida Jutiapa,0,0,186
+Honduras,Choluteca El Triunfo,0,12,398
+Honduras,Comayagua Meambar,0,0,167
+Honduras,Copan Dulce Nombre,0,0,333
+Honduras,Copan San Juan De Opoa,0,0,125
+Honduras,El Paraiso Oropoli,0,0,200
+Honduras,El Paraiso Trojes,0,0,494
+Honduras,Francisco Morazan Reitoca,0,0,442
+Honduras,Francisco Morazan Valle de Angeles,0,0,46
+Honduras,Intibuca Camasca,0,0,281
+Honduras,Intibuca Magdalena,0,0,429
+Honduras,Islas De La Bahia Jose Santos Guardiola,0,0,374
+Honduras,La Paz Opatoro,0,0,411
+Honduras,Lempira Cololaca,0,0,403
+Honduras,Lempira La Iguala,0,0,238
+Honduras,Lempira San Andres,0,0,21
+Honduras,Lempira Virginia,0,0,15
+Honduras,Ocotopeque Santa Fe,0,2,228
+Honduras,Olancho Guarizama,0,0,305
+Honduras,Olancho Mangulile,0,0,66
+Honduras,Santa Barbara Arada,0,0,26
+Honduras,Santa Barbara San Jose de Colinas,0,0,431
+Honduras,Valle Alianza,0,0,137
+Honduras,Valle San Francisco de Coray,0,0,37
+Honduras,Yoro Yorito,0,0,95
+Mexico,Norte Baja California Mexicali,0,2,444
+Mexico,Norte Baja California Playas de Rosarito,0,4,462
+Mexico,Norte Baja California Ensenada,0,8,488
+Mexico,Norte Baja California Tijuana,0,6,192
+Mexico,Norte Chihuahua Chihuahua,0,1,418
+Mexico,Norte Chihuahua Juarez,0,0,37
+Mexico,Norte Durango Durango,0,0,466
+Mexico,Norte Durango Gomez Palacio,0,0,4
+Mexico,Occidente Jalisco Ameca,0,0,308
+Mexico,Occidente Jalisco Cihuatlan,0,0,432
+Mexico,Occidente Jalisco Guadalajara,0,0,487
+Mexico,Occidente Jalisco Jamay,0,0,502
+Mexico,Occidente Jalisco Tepatitlan de Morelos,0,0,41
+Mexico,Occidente Jalisco Tomatlan,0,0,373
+Mexico,Occidente Jalisco Tonala,0,0,431
+Mexico,Occidente Jalisco Zapopan,0,0,369
+Mexico,Occidente Nayarit Tepic,0,0,388
+Mexico,Norte Sinaloa Ahome,0,0,99
+Mexico,Norte Sinaloa Culiacan,2,1,377
+Mexico,Norte Sonora Nogales,0,0,395
+Mexico,Norte Sonora Hermosillo,0,0,42
+Mexico,Occidente Aguascalientes Aguascalientes,0,0,255
+Mexico,Norte Coahuila Piedras Negras,0,0,362
+Mexico,Norte Coahuila Saltillo,0,0,48
+Mexico,Norte Coahuila Torreon,0,1,486
+Mexico,Occidente Guanajuato Guanajuato,0,0,188
+Mexico,Occidente Guanajuato Penjamo,0,0,322
+Mexico,Occidente Guanajuato Santa Cruz de Juventino Rosas,0,0,358
+Mexico,Norte Nuevo Leon Anahuac,0,0,503
+Mexico,Norte Nuevo Leon Apodaca,0,0,284
+Mexico,Norte Nuevo Leon Monterrey,0,0,461
+Mexico,Centro Queretaro Corregidora,0,0,501
+Mexico,Centro Queretaro Landa de Matamoros,0,0,438
+Mexico,Centro Queretaro Queretaro,0,0,188
+Mexico,Norte San Luis Potosi Tancanhuitz de Santos,0,0,324
+Mexico,Norte San Luis Potosi San Vicente Tancuayalab,0,0,435
+Mexico,Norte San Luis Potosi Villa de Ramos,0,0,147
+Mexico,Norte Tamaulipas Ciudad Madero,0,0,190
+Mexico,Norte Tamaulipas Nuevo Laredo,0,1,368
+Mexico,Norte Tamaulipas Rio Bravo,0,0,356
+Mexico,Norte Tamaulipas Victoria,0,1,117
+Mexico,Norte Zacatecas Trancoso,0,0,436
+Mexico,Norte Zacatecas Juchipila,0,0,368
+Mexico,Sur Campeche Campeche,0,0,294
+Mexico,Sur Chiapas Escuintla,0,0,211
+Mexico,Sur Chiapas Tecpatan,0,0,498
+Mexico,Sur Chiapas Tuxtla Gutierrez,4,6,429
+Mexico,Sur Chiapas Yajalon,4,4,357
+Mexico,Sur Chiapas Tapachula,1,2,405
+Mexico,Sur Oaxaca Loma Bonita,0,0,485
+Mexico,Sur Oaxaca San Juan Bautista Tuxtepec,0,0,417
+Mexico,Sur Oaxaca Huajuapan Tezoatlan de Segura y Luna,0,0,494
+Mexico,Sur Oaxaca Santa Catarina Juquila,0,0,158
+Mexico,Sur Quintana Roo Benito Juarez,0,1,238
+Mexico,Sur Quintana Roo Solidaridad,0,0,328
+Mexico,Sur Tabasco Huimanguillo,0,0,538
+Mexico,Sur Tabasco Nacajuca,0,0,185
+Mexico,Sur Veracruz de Ignacio de la Llave Alamo Temapache,0,0,477
+Mexico,Sur Veracruz de Ignacio de la Llave Jalacingo,0,0,382
+Mexico,Sur Veracruz de Ignacio de la Llave Teocelo,0,0,248
+Mexico,Sur Veracruz de Ignacio de la Llave Isla,0,0,112
+Mexico,Sur Veracruz de Ignacio de la Llave Texistepec,0,0,0
+Mexico,Sur Veracruz de Ignacio de la Llave Veracruz,0,0,475
+Mexico,Sur Yucatan Chemax,0,0,108
+Mexico,Sur Yucatan Merida,0,0,144
+Mexico,Centro Distrito Federal Gustavo A. Madero,0,0,17
+Mexico,Centro Distrito Federal Iztapalapa,0,0,355
+Mexico,Centro Distrito Federal Milpa Alta,0,0,2
+Mexico,Centro Distrito Federal Alvaro Obregon,0,0,309
+Mexico,Centro Distrito Federal Tlahuac,0,0,0
+Mexico,Centro Distrito Federal Tlalpan,0,0,333
+Mexico,Norte Chihuahua Cuauhtemoc,0,0,118
+Mexico,Sur Guerrero Acapulco de Juarez,0,0,132
+Mexico,Sur Guerrero Chilpancingo de los Bravo,0,0,353
+Mexico,Centro Morelos Emiliano Zapata,0,0,435
+Mexico,Centro Morelos Tlaquiltenango,0,0,144
+Mexico,Centro Puebla Huejotzingo,0,0,422
+Mexico,Centro Puebla Ixtacamaxtitlan,0,0,17
+Mexico,Centro Puebla Puebla,0,9,394
+Mexico,Centro Puebla San Andres Cholula,0,0,68
+Mexico,Centro Puebla Tehuacan,0,0,209
+Mexico,Centro Puebla Tepeaca,0,0,18
+Mexico,Centro Tlaxcala Calpulalpan,0,0,335
+Mexico,Occidente Colima Tecoman,0,0,173
+Mexico,Centro Hidalgo Omitlan de Juarez,0,0,121
+Mexico,Centro Hidalgo San Felipe Orizatlan,0,0,482
+Mexico,Centro Hidalgo Pachuca de Soto,0,0,159
+Mexico,Centro Mexico Atizapan de Zaragoza,0,0,27
+Mexico,Centro Mexico Cuautitlan Izcalli,0,0,12
+Mexico,Centro Mexico Ecatepec de Morelos,0,9,277
+Mexico,Centro Mexico Naucalpan de Juarez,0,0,358
+Mexico,Centro Mexico Nezahualcoyotl,0,2,94
+Mexico,Centro Mexico Nicolas Romero,1,2,116
+Mexico,Centro Mexico Nopaltepec,0,0,53
+Mexico,Centro Mexico La Paz,9,35,0
+Mexico,Centro Mexico San Felipe del Progreso,0,0,189
+Mexico,Centro Mexico Soyaniquilpan de Juarez,0,0,3
+Mexico,Centro Mexico Temascalcingo de Jose Maria Velasco,0,0,264
+Mexico,Centro Mexico Tlalnepantla de Baz,0,0,94
+Mexico,Centro Mexico Toluca,1,7,163
+Mexico,Occidente Michoacan Morelia,0,0,409
+Mexico,Occidente Michoacan de Ocampo Senguio,0,0,481
+Mexico,Occidente Michoacan de Ocampo Zamora de Hidalgo,0,0,31
+Panama,Colon Colon,1,32,303
+Panama,Colon Portobelo,0,2,452
+Panama,Panama Arraijan,0,0,329
+Panama,Panama Capira,0,0,493
+Panama,Panama Chame,0,46,406
+Panama,Panama Chepo,0,0,243
+Panama,Panama La Chorrera,0,8,332
+Panama,Panama Panama,129,395,56
+Panama,Panama San Miguelito,3,6,345
+Panama,Bocas del Toro Bocas del Toro,6,25,28
+Panama,Bocas Del Toro Changuinola,0,7,499
+Panama,Bocas Del Toro Chiriqui Grande,0,0,277
+Panama,Cocle Aguadulce,0,0,288
+Panama,Cocle Anton,0,0,371
+Panama,Cocle La Pintada,0,0,454
+Panama,Cocle Ola,0,0,42
+Panama,Cocle Penonome,0,0,73
+Panama,Colon Santa Isabel,0,0,482
+Panama,Chiriqui Baru,0,2,29
+Panama,Chiriqui Boqueron,0,0,214
+Panama,Chiriqui Bugaba,0,0,119
+Panama,Chiriqui David,0,2,488
+Panama,Chiriqui Dolega,0,0,486
+Panama,Chiriqui Remedios,0,0,367
+Panama,Chiriqui Tole,0,0,471
+Panama,Darien Chepigana,0,0,42
+Panama,Herrera Chitre,0,0,333
+Panama,Herrera Las Minas,0,0,136
+Panama,Herrera Parita,0,0,415
+Panama,Los Santos Las Tablas,0,0,41
+Panama,Los Santos Los Santos,3,1,432
+Panama,Panama Chiman,0,0,22
+Panama,Veraguas Canazas,0,0,463
+Panama,Veraguas Montijo,0,0,365
+Panama,Veraguas Santiago,0,0,272
+Panama,Veraguas Sona,0,0,276
+Panama,Guna Yala Guna Yala,1,13,163
+Panama,Ngobe Bugle Besiko,0,0,205
+Panama,Ngobe Bugle Muna,0,0,477
+Panama,Ngobe Bugle Nurum,0,0,215
+Panama,Ngobe Bugle Kankintu,0,0,189
+Paraguay,Asuncion Asuncion,5,65,213
+Paraguay,Concepcion,0,0,365
+Paraguay,Concepcion Horqueta,0,0,462
+Paraguay,Concepcion Yby Ya'u,0,0,316
+Paraguay,San Pedro Chore,0,0,415
+Paraguay,Cordillera Itacurubi de la Cordillera,0,0,422
+Paraguay,San Pedro San Estanislao,0,0,254
+Paraguay,San Pedro Villa Del Rosario,0,0,121
+Paraguay,San Pedro Guayaibi,0,0,106
+Paraguay,San Pedro Capiibary,0,0,152
+Paraguay,Cordillera Caacupe,0,0,469
+Paraguay,Cordillera Arroyos y Esteros,0,0,357
+Paraguay,Cordillera Piribebuy,0,0,499
+Paraguay,Cordillera Santa Elena,0,0,180
+Paraguay,Guaira Villarrica,0,0,405
+Paraguay,Guaira Mauricio Jose Troche,0,0,434
+Paraguay,Guaira Itape,0,0,24
+Paraguay,Guaira Paso Yobai,0,0,204
+Paraguay,Caaguazu Coronel Oviedo,0,0,467
+Paraguay,Caaguazu Caaguazu,0,0,411
+Paraguay,Caaguazu Carayao,0,0,509
+Paraguay,Caaguazu Repatriacion,0,0,84
+Paraguay,Caaguazu San Jose De Los Arroyos,0,0,466
+Paraguay,Caaguazu Doctor Juan Eulogio Estigarribia,0,0,332
+Paraguay,Caaguazu Jose Domingo Ocampos,0,0,427
+Paraguay,Caazapa Caazapa,0,0,72
+Paraguay,Caaguazu General Higinio Morinigo,0,0,312
+Paraguay,Caazapa Yuty,0,0,501
+Paraguay,Itapua La Encarnacion,0,0,327
+Paraguay,Itapua Cambyreta,0,0,46
+Paraguay,Itapua Carlos Antonio Lopez,0,0,387
+Paraguay,Itapua Fram,0,0,101
+Paraguay,Itapua Hohenau,0,0,199
+Paraguay,Itapua San Pedro del Parana,0,0,341
+Paraguay,Itapua Edelira,0,0,108
+Paraguay,Itapua Yatytay,0,0,195
+Paraguay,Itapua San Juan Del Parana,0,0,317
+Paraguay,Misiones San Ignacio,0,0,0
+Paraguay,Misiones Santa Rosa,0,0,345
+Paraguay,Paraguari Acahay,0,0,192
+Paraguay,Paraguari Escobar,0,0,325
+Paraguay,Paraguari Quyquyho,0,0,103
+Paraguay,Paraguari San Roque Gonzalez de Santa Cruz,0,0,202
+Paraguay,Paraguari Ybycui,0,0,398
+Paraguay,Alto Parana Ciudad Del Este,0,1,198
+Paraguay,Alto Parana Presidente Franco,0,0,436
+Paraguay,Alto Parana Hernandarias,0,0,496
+Paraguay,Alto Parana Nacunday,0,0,386
+Paraguay,Alto Parana Minga Guazu,0,0,136
+Paraguay,Alto Parana Santa Rosa Del Monday,0,0,304
+Paraguay,Central Aregua,0,0,366
+Paraguay,Central Capiata,0,0,334
+Paraguay,Central Fernando de la Mora,2,0,172
+Paraguay,Central Guarambare,0,0,144
+Paraguay,Central Ita,0,0,315
+Paraguay,Central Itaugua,0,0,38
+Paraguay,Central Lambare,0,1,401
+Paraguay,Central Limpio,0,0,48
+Paraguay,Central Luque,0,0,484
+Paraguay,Central Mariano Roque Alonso,0,0,316
+Paraguay,Central Nemby,0,0,482
+Paraguay,Central San Lorenzo,0,0,497
+Paraguay,Central Villa Elisa,0,0,472
+Paraguay,Central Villeta,0,0,307
+Paraguay,Central Ypane,0,0,337
+Paraguay,Neembucu Pilar,0,0,314
+Paraguay,Neembucu Cerrito,0,0,35
+Paraguay,Amambay Pedro Juan Caballero,0,7,438
+Paraguay,Canindeyu Corpus Christi,0,0,59
+Paraguay,Canindeyu Villa Curuguat,0,0,352
+Paraguay,Canindeyu Ypejhu,0,0,431
+Paraguay,Canindeyu Nueva Esperanza,0,0,129
+Paraguay,Presidente Hayes Villa Hayes,0,2,101
+Paraguay,Boqueron Mariscal Jose Felix Estigarribia,0,0,44
+Peru,Amazonas La Peca,0,0,5
+Peru,Ancash Chimbote,0,0,262
+Peru,Ancash Huaraz,0,0,309
+Peru,Ancash Caceres del Peru,0,0,367
+Peru,Ancash Quillo,0,0,309
+Peru,Apurimac Curahuasi,0,0,321
+Peru,Arequipa Arequipa,0,19,0
+Peru,Ayacucho Ayacucho,0,31,296
+Peru,Junin Rio Tambo,0,0,479
+Peru,Ayacucho Vinchos,0,0,0
+Peru,Cajamarca Cachachi,0,0,468
+Peru,Cajamarca Cajamarca,0,1,254
+Peru,Cajamarca Querocotillo,0,0,272
+Peru,Cajamarca Encanada,0,0,371
+Peru,Cajamarca Huarango,0,0,194
+Peru,Cusco Cusco,0,53,121
+Peru,Cusco Lares,0,0,355
+Peru,Gran Lima,0,1,471
+Peru,Huancavelica Acoria,0,0,231
+Peru,Huanuco Chinchao,0,0,42
+Peru,Huanuco Huanuco,0,1,434
+Peru,Ica Chincha,0,0,341
+Peru,Ica Nazca,0,0,359
+Peru,Ica Yauca Del Rosario,0,0,341
+Peru,Junin Huancayo,0,0,0
+Peru,Junin Ingenio,0,0,232
+Peru,Junin La Oroya,0,3,118
+Peru,Junin San Ramon,0,0,367
+Peru,La Libertad Laredo,0,0,243
+Peru,La Libertad Trujillo,0,3,49
+Peru,La Libertad Usquil,0,0,285
+Peru,Lambayeque Chiclayo,0,0,406
+Peru,Lambayeque Ferrenafe,0,0,63
+Peru,Lambayeque Tucume,0,0,183
+Peru,Lima Huaral,0,1,439
+Peru,Loreto Fernando Lores,0,0,0
+Peru,Loreto Jenaro Herrera,0,0,105
+Peru,Loreto Iquitos,0,9,295
+Peru,Piura Frias,0,0,199
+Peru,Piura La Arena,0,0,381
+Peru,Piura Piura,0,1,308
+Peru,Piura Santo Domingo,0,0,499
+Peru,Piura Talara,0,0,303
+Peru,Puno Orurillo,0,0,217
+Peru,Puno Huancane,0,0,405
+Peru,Puno Juliaca,0,10,183
+Peru,Puno Pomata,0,0,335
+Peru,Puno Puno,0,27,171
+Peru,San Martin Rioja,0,0,135
+Peru,San Martin Tingo de Ponasa,0,0,325
+Peru,San Martin Tarapoto,0,4,158
+Peru,Tacna Tacna,0,7,395
+Uruguay,Montevideo,0,33,441
+Uruguay,Montevideo Montevideo Rural,0,10,486
+Uruguay,Artigas Artigas,0,0,143
+Uruguay,Canelones Las Piedras,0,0,391
+Uruguay,Canelones Canelones,0,3,499
+Uruguay,Canelones Pando,0,0,477
+Uruguay,Canelones Progreso,0,0,501
+Uruguay,Canelones Barros Blancos,0,0,441
+Uruguay,Canelones Joaquin Suarez,0,0,495
+Uruguay,Canelones Fraccionamiento Camino del Andaluz y Ruta 84,0,0,204
+Uruguay,Canelones Atlantida,0,0,189
+Uruguay,Canelones Empalme Olmos,0,0,371
+Uruguay,Canelones Montes,0,0,264
+Uruguay,Canelones Parque Carrasco,0,0,278
+Uruguay,Canelones Villa Aeroparque,0,0,202
+Uruguay,Canelones Lagomar,0,0,208
+Uruguay,Canelones Canelones rural,0,1,393
+Uruguay,Canelones Lomas de Solymar,0,0,35
+Uruguay,Cerro Largo Melo,0,0,395
+Uruguay,Cerro Largo Fraile Muerto,0,0,44
+Uruguay,Cerro Largo Rio Branco,0,0,159
+Uruguay,Cerro Largo Tres Islas,0,0,208
+Uruguay,Colonia Colonia del Sacramento,0,0,215
+Uruguay,Colonia Carmelo,0,0,152
+Uruguay,Colonia Rosario,0,1,192
+Uruguay,Colonia Nueva Palmira,0,0,15
+Uruguay,Durazno Durazno,0,0,83
+Uruguay,Flores Trinidad,0,0,88
+Uruguay,Flores Flores rural,0,1,456
+Uruguay,Florida Florida,0,13,327
+Uruguay,Florida La Cruz,0,0,281
+Uruguay,Lavalleja Minas,0,0,332
+Uruguay,Maldonado Maldonado,0,0,447
+Uruguay,Maldonado San Carlos,0,0,415
+Uruguay,Maldonado Aigua,0,0,323
+Uruguay,Maldonado Pan de Azucar,0,0,39
+Uruguay,Maldonado Cerro Pelado,0,0,218
+Uruguay,Rocha Aguas Dulces La Perla y Los Corchos,0,0,486
+Uruguay,Paysandu Paysandu,0,1,145
+Uruguay,Rio Negro Rio Negro rural,0,0,217
+Uruguay,Rivera Rivera,0,0,21
+Uruguay,Rivera Tranqueras,0,0,174
+Uruguay,Rocha La Pedrera,0,0,485
+Uruguay,Rocha Rocha,0,0,171
+Uruguay,Rocha Chuy,0,0,85
+Uruguay,Rocha Aguas Dulces,0,0,67
+Uruguay,Salto Salto,0,2,312
+Uruguay,San Jose San Jose de Mayo,0,0,138
+Uruguay,San Jose Libertad,0,0,395
+Uruguay,San Jose Delta del Tigre y Villas,0,0,413
+Uruguay,San Jose San Jose Rural,0,4,396
+Uruguay,Soriano Mercedes,0,0,413
+Uruguay,Soriano Canada Nieto,0,0,254
+Uruguay,Tacuarembo Tacuarembo,0,0,282
+Uruguay,Tacuarembo Paso de los Toros,0,0,206
+Uruguay,Tacuarembo San Gregorio de Polanco,0,0,194
+Uruguay,Treinta y Tres Treinta y Tres,0,0,444
+Venezuela,Distrito Capital Libertador de Caracas,0,1,398
+Venezuela,Estado Amazonas,0,0,469
+Venezuela,Anzoategui Anzoategui,0,8,374
+Venezuela,Apure Apure,0,16,248
+Venezuela,Aragua,0,123,431
+Venezuela,Barinas Barinas,0,10,377
+Venezuela,Bolivar Bolivar,0,90,453
+Venezuela,Carabobo Carabobo,0,36,363
+Venezuela,Cojedes,0,2,18
+Venezuela,Delta Amacuro,0,7,19
+Venezuela,Falcon Falcon,0,15,492
+Venezuela,Guarico Guarico,0,11,435
+Venezuela,Lara Lara,0,11,278
+Venezuela,Merida Merida,0,9,44
+Venezuela,Miranda Miranda,0,18,192
+Venezuela,Monagas Monagas,0,5,332
+Venezuela,Nueva Esparta Nueva Esparta,0,11,46
+Venezuela,Portuguesa Portuguesa,0,11,463
+Venezuela,Sucre Sucre,0,7,276
+Venezuela,Tachira Tachira,0,17,357
+Venezuela,Trujillo Trujillo,0,13,436
+Venezuela,Vargas Vargas,0,35,347
+Venezuela,Yaracuy Yaracuy,0,11,406
+Venezuela,Zulia Zulia,0,31,226
