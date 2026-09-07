@@ -7,4 +7,4 @@ Una discusión preliminar se presentó en un Workshop de Investigación en UCA e
 
 El 1 de Julio de 2026 se presentarán los avances en el seminario de tesis. [Slides](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/Slides%20-%20Seminario.pdf)
 
-Está planificado presentar más avances en las Jornadas de Espitemología de Septiembre 2026.
+Está planificado presentar más avances en las Jornadas de Espitemología de Septiembre 2026. [Slides](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/Slides%20-%20Simposio.pdf)
