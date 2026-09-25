@@ -7,4 +7,4 @@ Una discusión preliminar se presentó en un Workshop de Investigación en UCA e
 
 El 1 de Julio de 2026 se presentaron los avances en el seminario de tesis. [Slides](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/Slides%20-%20Seminario.pdf)
 
-El 8 de Septiembre de 2026 se presentaron más avances en las Jornadas de Espitemología FCE-UBA. [Slides](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/Slides%20-%20Simposio.pdf)
+El 8 de Septiembre de 2026 se presentaron más avances en las Jornadas de Espitemología FCE-UBA. [Slides](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/Slides%20-%20Simposio.pdf) [Certificado](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/Leonardo%20A.%20Caravaggio_Certificado%20_2026_Simp.%20Ruiz.pdf)
