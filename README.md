@@ -2,6 +2,8 @@
 
 Actualmente el trabajo solo considera un modelo de Event Studys. 
 
+Sobre Latinobarómetro: [EDA y descriptiva](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/Datos.ipynb)</br>
+
 La identificación de los eventos se hizo: </br>
 [Con la base de elecciones de IFES](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/IFES.ipynb)</br>
 [Con la base de protestas ACLED](https://github.com/LCaravaggio/Happiness_Polarization/blob/main/Protestas_ACLED.ipynb)</br>
